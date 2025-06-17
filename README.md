@@ -15,7 +15,7 @@ id | UAL user | Nombre estudiante  | Página personal examen
 1	 | 	aae622	 | 	A. E. ANA BELLA	 | 	[aae622/aae622.md](aae622/aae622.md)
 3	 | 	acr360	 | 	C. R. ANTONIO	 | 	[acr360/acr360.md](acr360/acr360.md)
 4	 | 	dcf313	 | 	C. F. DAVID	 | 	[dcf313/dcf313.md](dcf313/dcf313.md)
-5	 | 	dcc023	 | 	C. C. DIEGO	 | 	[dcc023/dcc023.md](dcc023/dcc023.md)
+5	 | 		 |  | 	[dcc023/dcc023.md](dcc023/dcc023.md)
 6	 | 	jcc552	 | 	C. C. JUAN JOSE	 | 	[jcc552/jcc552.md](jcc552/jcc552.md)
 7	 | 	ie127	 | 	E. H. ILYASS	 | 	[ie127/ie127.md](ie127/ie127.md)
 9	 | 	ae234	 | 	E. R. ABDELAZIZ	 | 	[ae234/ae234.md](ae234/ae234.md)
